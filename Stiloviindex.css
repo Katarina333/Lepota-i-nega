@@ -1,5 +1,6 @@
 body {background-color:#ffa8d4}
 h1 {text-align:center}
+hr {border-color:#00c2c2; border-width:2px}
 nav {background-color:black; height:200px}
 ul {list-style-type:none; display:flex; margin:40px; padding:70px}
 ul li {float:center; height:50px}
