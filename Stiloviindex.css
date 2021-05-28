@@ -1,0 +1,6 @@
+body {background-color:#ffa8d4}
+h1 {text-align:center}
+nav {background-color:black; height:200px}
+ul {list-style-type:none; display:flex; margin:40px; padding:70px}
+ul li {float:center; height:50px}
+ul li a {background-color:#00c2c2; border:5px solid #FF00FF; color:black; padding:15px 25px}
